@@ -52,9 +52,9 @@ python3 run_front.py
 python3 run_front_rand.py
 ```
 
-<!---
-[![SQG singular front](videos/singular_front.png)](videos/singular_front.mp4)
--->
+## Gallery
+
+[![2D Turbulence](images/turb2d_512x512.png)](videos/turb2d.mp4)
 
 ## TODO
 
