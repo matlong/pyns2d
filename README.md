@@ -52,7 +52,15 @@ python3 run_front_rand.py
 
 ## TODO
 
+* Add finite volume version based on WENO5
 
+* Add spectral forcings
+
+* Add Lagrangian trajectory and relative dispersion
+
+* Add stochastic transport scheme with different types of noise (POD, DMD, SVD, DWT, DFT, etc.)
+
+* Add other explicit LES closues (Smagorinsky, Leith, etc.) with stochastic backscatter schemes
 
 <!---
 ## Help
