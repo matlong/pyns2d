@@ -50,9 +50,10 @@ python3 run_front.py
 python3 run_front_rand.py
 ```
 
-## Gallery
-
+<!---
 [![SQG singular front](videos/singular_front.png)](videos/singular_front.mp4)
+-->
+[![SQG strong front](videos/strong_front.png)]
 
 ## TODO
 
