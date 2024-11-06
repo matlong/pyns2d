@@ -52,9 +52,11 @@ python3 run_front.py
 python3 run_front_rand.py
 ```
 
+<!---
 ## Gallery
 
 [![2D Turbulence](images/turb2d_512x512.png)](videos/turb2d.mp4)
+-->
 
 ## TODO
 
