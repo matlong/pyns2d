@@ -1,8 +1,6 @@
-# pyns2d
+# pyns2d: PyTorch implementation of two-dimensional Navier-Stokes models
 
 ![Title Image](images/vort.png)
-
-PyTorch implementation of two-dimensional Navier-Stokes models.
 
 Copyright 2024 Long Li.
 
