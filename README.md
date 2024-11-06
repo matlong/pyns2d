@@ -1,4 +1,7 @@
 # pyns2d
+
+![Title Image](images/vort.png)
+
 PyTorch implementation of two-dimensional Navier-Stokes models.
 
 Copyright 2024 Long Li.
@@ -53,7 +56,6 @@ python3 run_front_rand.py
 <!---
 [![SQG singular front](videos/singular_front.png)](videos/singular_front.mp4)
 -->
-[![SQG strong front](videos/strong_front.png)]
 
 ## TODO
 
